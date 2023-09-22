@@ -87,8 +87,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 If you have any questions, suggestions, or feedback, feel free to reach out to [Pabitra Banerjee](mailto:rockstarpabitra2204@gmail.com).
 
-<<<<<<< HEAD
 Happy coding!
-=======
-Happy coding!
->>>>>>> ec32df93f72f61cbfcfa8c8b7f679f2e07f3ae9a
