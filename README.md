@@ -1,5 +1,3 @@
-# My Image Fetcher Library
-
 # My Image Fetcher Library :: CPP Google Image Fetcher
 
 My Image Fetcher Library is a C++ library that allows you to search for images on Google and download them to your local system. It provides a simple API for querying Google's Custom Search API and saving image results.
