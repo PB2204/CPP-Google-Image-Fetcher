@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/rocks/OneDrive/Desktop/C++Lib/**",
+                "C:/Curl/curl-8.3.0/curl-8.3.0/include/curl/curl.h",
+                "C:/Curl/curl-8.3.0/curl-8.3.0/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x86",
+            "compilerPathInCppPropertiesJson": "C:/MinGW/bin/gcc.exe",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "c:/Users/rocks/OneDrive/Desktop/C++Lib/**",
+                    "C:/Curl/curl-8.3.0/curl-8.3.0/include/curl/curl.h",
+                    "c:/Users/rocks/OneDrive/Desktop/C++Lib"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
