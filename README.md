@@ -1,6 +1,3 @@
-Creating a well-structured README.md file is essential for your project as it provides a clear overview of your project's purpose, usage, and instructions for potential contributors. Here's a sample README.md template for your image fetching library project:
-
-```markdown
 # My Image Fetcher Library
 
 My Image Fetcher Library is a C++ library that allows you to search for images on Google and download them to your local system. It provides a simple API for querying Google's Custom Search API and saving image results.
@@ -75,11 +72,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to your branch: `git push origin feature/your-feature-name`
 5. Open a pull request on this repository.
 
-Please review the [Contributing Guidelines](CONTRIBUTING.md) for more details.
+Please review the [Contributing Guidelines](https://github.com/PB2204/CPP-Google-Image-Fetcher/blob/main/CONTRIBUTING.md) for more details.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/PB2204/CPP-Google-Image-Fetcher/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -91,4 +88,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions, suggestions, or feedback, feel free to reach out to [Pabitra Banerjee](mailto:rockstarpabitra2204@gmail.com).
 
 Happy coding!
-```
