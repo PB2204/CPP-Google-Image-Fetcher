@@ -1,7 +1,4 @@
-Creating a well-structured README.md file is essential for your project as it provides a clear overview of your project's purpose, usage, and instructions for potential contributors. Here's a sample README.md template for your image fetching library project:
-
-```markdown
-# My Image Fetcher Library
+# My Image Fetcher Library :: CPP Google Image Fetcher
 
 My Image Fetcher Library is a C++ library that allows you to search for images on Google and download them to your local system. It provides a simple API for querying Google's Custom Search API and saving image results.
 
